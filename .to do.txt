@@ -1,0 +1,14 @@
+Add game: Do not change!!!
+
+find . -type f -exec sed -i 's/<li class="games"><a href=\"fileRightAfter.html/<li class="games"><a href=\"fileName.html\">Game Name<\/a><\/li>\n          &/g' {} +
+
+
+Delete Game: Do not change!!!
+
+
+find . -type f -exec sed -i '/fileName/d' {} +
+
+
+DO NOT PRESS MAKE PRETTIER!!!
+
+i added super mario advance 1 2 3 and 4

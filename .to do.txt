@@ -11,3 +11,4 @@ find . -type f -exec sed -i '/fileName/d' {} +
 
 DO NOT PRESS MAKE PRETTIER!!!
 
+find . -type f -exec sed -i 's/<li class="games"><a href=\"moborz.html/<li class="games"><a href=\"miniDrifts.html\">Mini Drifts<\/a><\/li>\n          &/g' {} +

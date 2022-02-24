@@ -11,4 +11,3 @@ find . -type f -exec sed -i '/fileName/d' {} +
 
 DO NOT PRESS MAKE PRETTIER!!!
 
-i added super mario advance 1 2 3 and 4
